@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "linear-equation-01",
+  "title": "Solve 2x + 3 = 11",
+  "language": "en",
+  "problem": {
+    "type": "linear_equation",
+    "coefficient": 2,
+    "constant": 3,
+    "result": 11
+  }
+}

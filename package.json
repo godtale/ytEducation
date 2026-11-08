@@ -1,0 +1,12 @@
+{
+  "name": "yt-education",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "lesson": "node src/cli.js",
+    "demo": "node src/cli.js prepare lessons/linear-equation.json"
+  }
+}
